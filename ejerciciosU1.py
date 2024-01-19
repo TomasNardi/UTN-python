@@ -1,4 +1,4 @@
-"Tomas Martin Nardi utn"
+"Tomas Martin Nardi"
 
 """Ejercicio 1:
 Cree un programa que tome tres valores por consola multiplique el primero por el segundo
